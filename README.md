@@ -56,9 +56,7 @@ Projeto integrador desenvolvido para a conclusão do bootcamp JAVA + REACT da Ge
 
 - Plataforma de comércio online conectando produtos artesanais e serviços de comunidades em situação de vulnerabilidade econômica a potenciais compradores.
 
-Projeto pode ser acessado pelo seguinte endereço: []() com as seguintes credenciais: 
-Login: root@root.com 
-Senha: rootroot
+Projeto pode ser acessado pelo seguinte endereço: [DOB](https://projeto-react-rose.vercel.app/)
 
 ### Desenvolvedores 👩‍💻👨‍💻
 
