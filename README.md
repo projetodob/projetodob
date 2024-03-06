@@ -2,7 +2,7 @@
 
 # DESENVOLVENDO O BEM - DOB 🌍💙
 
-Projeto integrador desenvolvido para a conclusão do bootcamp JAVA + ANGULAR da Generation Brasil. O foco central do projeto está na criação de uma plataforma de comércio online para conectar comunidades carentes a oportunidades econômicas sustentáveis, promovendo inclusão econômica e negócios justos.
+Projeto integrador desenvolvido para a conclusão do bootcamp JAVA + REACT da Generation Brasil. O foco central do projeto está na criação de uma plataforma de comércio online para conectar comunidades carentes a oportunidades econômicas sustentáveis, promovendo inclusão econômica e negócios justos.
 
 ## Problema Social e Objetivos
 
